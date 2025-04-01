@@ -1,4 +1,5 @@
 package ocp
+/*
 abstract class MetodoEnvio {
     abstract fun enviar(archivo: String)
 }
@@ -24,3 +25,4 @@ fun main() {
     val envioHTTP = EnvioHTTP()
     envio.enviar("imagen.jpg", envioHTTP)
 }
+*/

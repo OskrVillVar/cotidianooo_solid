@@ -1,4 +1,5 @@
 package ocp
+/*
 abstract class Grafica {
     abstract fun dibujar()
 }
@@ -27,3 +28,4 @@ fun main() {
     val graficaPastel = GraficaPastel()
     graficaPastel.dibujar()
 }
+*/
